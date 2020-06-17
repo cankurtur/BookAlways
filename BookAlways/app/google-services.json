@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669076932275",
+    "firebase_url": "https://bookalways-4417c.firebaseio.com",
+    "project_id": "bookalways-4417c",
+    "storage_bucket": "bookalways-4417c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669076932275:android:3cff1dbf12cfbd70",
+        "android_client_info": {
+          "package_name": "com.metric.bookalways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669076932275-kjvibfpqg4r1ja6l6ghnqbrbfh0jqv8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACotsSXz7QtrNQHCZXa6APOGNtBYR_a9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
